@@ -19,5 +19,7 @@ echo Install your launcher of choice when the installation is done, Have fun!
 echo Install your launcher of choice when the installation is done, Have fun!
 echo Install your launcher of choice when the installation is done, Have fun!
 echo Install your launcher of choice when the installation is done, Have fun!
-start "" "C:\Users\%USERNAME%\Downloads\AndroidLaunchers"
 C:\Users\%USERNAME%\Downloads\LDPlayer9.exe
+start "" "C:\Users\%USERNAME%\Downloads\AndroidLaunchers"
+pause
+
